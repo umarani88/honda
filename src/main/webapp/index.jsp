@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>first deployement!!</h2>
+<h2>First deployement!!</h2>
 </body>
 </html>
